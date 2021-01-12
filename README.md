@@ -1,5 +1,5 @@
 # reaktor-humanoid-hunt
-Solutions to ht humanoid hunt chanllenge on https://hunt.reaktor.com/
+Solutions to the humanoid hunt chanllenge on https://hunt.reaktor.com/
 
 Usage:
 ```
