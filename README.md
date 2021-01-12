@@ -6,5 +6,5 @@ Usage:
 npm install
 npm start
 ```
-Androif path as a bitmap representation:
+Android path as a bitmap representation:
 ![bmp representation of the android path](OUT.bmp)
